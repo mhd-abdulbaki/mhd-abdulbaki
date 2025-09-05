@@ -1,7 +1,7 @@
 ### Hi there! 👋
 I'm thrilled to have you here. My name is Mhd Abdulbaki,
 
-Highly skilled FullStack Developer with +2 years of experience in designing and developing web applications. Proficient in MongoDB, Express.js, React, Next.js, Node.js, Nest.js and Typescript, with a deep understanding of each component's role in building robust and scalable applications.
+Highly skilled FullStack Developer with +3 years of experience in designing and developing web applications. Proficient in MongoDB, Express.js, React, Next.js, Node.js, Nest.js and Typescript, with a deep understanding of each component's role in building robust and scalable applications.
 
 Expertise in utilizing React to build dynamic and interactive user interfaces, employing reusable components and optimizing rendering for enhanced user experience. Proficient in implementing complex UI designs and maintaining code consistency.
 Proficient in utilizing Next.js, a popular React framework, to create fast and SEO-friendly websites.
